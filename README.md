@@ -33,21 +33,21 @@ Student Login.
 Email: student@example.com.  
 Password: Student@123.  
 
-student/
-│
-├─ backend/
-│   ├─ models/         # Mongoose models (User, Course, Feedback)
-│   ├─ routes/         # Express routes (auth, users, courses, feedback)
-│   ├─ middleware/     # Auth & Admin middleware
-│   ├─ seed.js         # Database seeding script
-│   ├─ server.js       # Express app entry
-│   ├─ .env.example    # Sample backend environment variables
-│   └─ package.json
-│
-├─ frontend/
-│   ├─ src/            # React components & pages
-│   ├─ public/
-│   ├─ .env.example    # Sample frontend environment variables
-│   └─ package.json
-│
-└─ README.md
+student/.  
+│. 
+├─ backend/.
+│   ├─ models/.         # Mongoose models (User, Course, Feedback)
+│   ├─ routes/.         # Express routes (auth, users, courses, feedback)
+│   ├─ middleware/.      # Auth & Admin middleware
+│   ├─ seed.js.          # Database seeding script
+│   ├─ server.js.        # Express app entry
+│   ├─ .env.example.     # Sample backend environment variables
+│   └─ package.json.  
+│.  
+├─ frontend/.  
+│   ├─ src/.             # React components & pages
+│   ├─ public/.  
+│   ├─ .env.example.      # Sample frontend environment variables
+│   └─ package.json.  
+│.  
+└─ README.md.  
