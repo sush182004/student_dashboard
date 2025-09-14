@@ -16,10 +16,10 @@ npm run dev.
 ### Backend will run at: http://localhost:5000.  
 
 ## Frontend setup
-cd ../frontend
-npm install
-npm start
-### Frontend will run at: http://localhost:3000
+cd ../frontend.  
+npm install.  
+npm start.  
+### Frontend will run at: http://localhost:3000.  
 
 .
 
@@ -29,6 +29,6 @@ Admin Login.
 Email: admin@example.com.  
 Password: Admin@123.  
 
-Student Login
-Email: student@example.com
-Password: Student@123
+Student Login.  
+Email: student@example.com.  
+Password: Student@123.  
