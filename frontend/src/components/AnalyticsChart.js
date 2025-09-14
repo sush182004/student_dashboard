@@ -40,7 +40,7 @@ function AnalyticsChart() {
         fetchData();
     }, []);
 
-    return <Bar data={chartData} options={{ responsive: true, plugins: { legend: { position: 'top' } } }} />;
+    return <Bar data={} options={{ responsive: true, plugins: { legend: { position: 'top' } } }} />;
 }
 
 export default AnalyticsChart;
