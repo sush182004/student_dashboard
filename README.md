@@ -5,15 +5,15 @@ This is a MERN stack application where students can register, log in, submit fee
 Admins can manage courses, view analytics, and monitor student feedback with role-based access control (RBAC).
 
 ## 🛠️ Tech Stack
-Frontend: React, React Router, Axios, Chart.js
-Backend: Node.js, Express.js, MongoDB, JWT, Bcrypt
+Frontend: React, React Router, Axios, Chart.js.  
+Backend: Node.js, Express.js, MongoDB, JWT, Bcrypt.  
 Database: Local MongoDB
 
 ## Backend setup
-cd backend\n
-npm install
-npm run dev
-### Backend will run at: http://localhost:5000
+cd backend.  
+npm install.  
+npm run dev.  
+### Backend will run at: http://localhost:5000.  
 
 ## Frontend setup
 cd ../frontend
@@ -25,9 +25,9 @@ npm start
 
 ## 🔑 Test Logins
 After running node seed.js, you can log in with:
-Admin Login
-Email: admin@example.com
-Password: Admin@123
+Admin Login.  
+Email: admin@example.com.  
+Password: Admin@123.  
 
 Student Login
 Email: student@example.com
