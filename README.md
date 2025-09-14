@@ -10,7 +10,7 @@ Backend: Node.js, Express.js, MongoDB, JWT, Bcrypt
 Database: Local MongoDB
 
 ## Backend setup
-cd backend
+cd backend\n
 npm install
 npm run dev
 ### Backend will run at: http://localhost:5000
