@@ -2,7 +2,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-require('otenv').config();
+require('dotenv').config();
 
 const app = express();
 
